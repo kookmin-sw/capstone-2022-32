@@ -1,4 +1,3 @@
-[![Open in Visual Studio Code]
 팀페이지 주소 -> https://github.com/kookmin-sw/capstone-2022-32
 # MOM'S VOCA
 
