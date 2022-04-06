@@ -1,4 +1,4 @@
-팀페이지 주소 -> https://github.com/kookmin-sw/capstone-2022-32
+팀페이지 주소 -> https://github.com/kookmin-sw/capstone-2022-32   
 깃허브 팀페이지 주소 -> https://kookmin-sw.github.io/capstone-2022-32/
 # MOM'S VOCA.
 
