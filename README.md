@@ -8,6 +8,8 @@
 저는 어머님의 말씀을 듣고 어머님을 포함해서 많은 부모님세대 어른들이 영어공부를 보다 편하게 할 수 있으며, 그림과 함께 단어를 보여줌으로써 연관기억력을 높이는 효과가 있는 프로그램을 개발해보자고 생각했습니다. 그렇게 해서 계획된 프로그램이 연상학습법을 활용한 MOM’S VOCA입니다. 
 
 ### 2. 팀 소개
+
+![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png) 
 🧑🏻‍💻 Name: 정태원
 🌱 StudentID: ****1703
 📧 Email: tom9816@kookmin.ac.kr
@@ -16,4 +18,3 @@
     👉🏻 AI(텍스트 분석 파트)
     👉🏻 Backend
     👉🏻 데이터 셋 구축 및 모델 학습
-![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png) 
