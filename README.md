@@ -19,4 +19,9 @@ Name: 이소율
 Student ID: ****3251   
 Roll: 조원
 
+### 3. 중간 발표
+
+[팀32-중간보고서.pdf](https://github.com/kookmin-sw/capstone-2022-32/files/8430058/32-.pdf)
+
+[팀32-중간발표자료.pdf](https://github.com/kookmin-sw/capstone-2022-32/files/8430060/32-.pdf)
 
