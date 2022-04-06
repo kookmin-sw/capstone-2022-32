@@ -9,4 +9,11 @@
 
 ### 2. 팀 소개
 
-![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png)
+![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png) 🧑🏻‍💻 Name: 정태원
+🌱 StudentID: ****1703
+📧 Email: tom9816@kookmin.ac.kr
+🔥 Role
+    👉🏻 팀장(인적자원관리)
+    👉🏻 AI(텍스트 분석 파트)
+    👉🏻 Backend
+    👉🏻 데이터 셋 구축 및 모델 학습
