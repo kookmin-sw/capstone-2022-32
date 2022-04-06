@@ -9,10 +9,7 @@
 
 ### 2. 팀 소개
 
-![image](https://user-images.githubusercontent.com/102350939/162039779-bd3f180a-febd-48e7-8e68-ff7019aa15fe.png)
-Name: 윤기훈
-StudentID: 20143082
-Roll: 조장
+![image](https://user-images.githubusercontent.com/102350939/162039779-bd3f180a-febd-48e7-8e68-ff7019aa15fe.png) Name: 윤기훈 StudentID: 20143082 Roll: 조장
 
 ![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png) 
 Name: 이소율
