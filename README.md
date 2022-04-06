@@ -10,7 +10,7 @@
 ### 2. 팀 소개
 
 ![image](https://user-images.githubusercontent.com/102350939/162039779-bd3f180a-febd-48e7-8e68-ff7019aa15fe.png) 
-Name: 윤기훈 
+Name: 윤기훈    
 Student ID: 20143082 
 Roll: 조장
 
