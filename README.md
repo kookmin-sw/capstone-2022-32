@@ -9,3 +9,4 @@
 
 ### 2. 팀 소개
 
+![image](https://user-images.githubusercontent.com/102350939/162039241-1d22361f-c9b4-40c2-a9f0-9f49d396ae26.png)
