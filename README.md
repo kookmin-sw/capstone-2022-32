@@ -26,3 +26,12 @@ Roll: 조원
 
 [팀32-중간발표자료.pdf](https://github.com/kookmin-sw/capstone-2022-32/files/8430060/32-.pdf)
 
+### 4. 기말 발표
+
+![image](https://user-images.githubusercontent.com/102350939/169976617-796c928b-b157-409a-9d0d-4a528373279f.png)
+
+https://user-images.githubusercontent.com/102350939/169976767-2f447680-f7d9-447a-93b6-62ef88cfc252.mp4
+
+[팀32-수행결과보고서.pdf](https://github.com/kookmin-sw/capstone-2022-32/files/8760475/32-.pdf)
+
+[팀32-최종발표자료.pdf](https://github.com/kookmin-sw/capstone-2022-32/files/8760477/32-.pdf)
